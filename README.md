@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="SIDI.JPG" alt="SIDI — AI Customer Support Agent" width="220">
+<img src="SIDI.jpg" alt="SIDI — AI Customer Support Agent" width="220">
 
 # SIDI
 ### The AI Customer Support Agent, Native to Hassaniya
